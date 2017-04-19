@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Igor-Lopes/node-zenvia/issues"
   },
-  "homepage": "https://github.com/Igor-Lopes/node-zenvia#readme"
+  "homepage": "https://github.com/Igor-Lopes/node-zenvia#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0"
+  }
 }
