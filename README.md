@@ -18,7 +18,7 @@ var credentials = {
 };
 
 // Require zenvia module
-var zenvia = require('../index.js')(credentials);
+var zenvia = require('zenvia-node')(credentials);
 
 // Sending a single sms
 zenvia.sendSms({
