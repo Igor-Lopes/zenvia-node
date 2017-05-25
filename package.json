@@ -1,5 +1,5 @@
 {
-  "name": "node-zenvia",
+  "name": "zenvia-node",
   "version": "0.1.0",
   "description": "Zenvia SMS API wrapper for NodeJS",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Igor-Lopes/node-zenvia.git"
+    "url": "git+https://github.com/Igor-Lopes/zenvia-node.git"
   },
   "author": "Igor Lopes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Igor-Lopes/node-zenvia/issues"
+    "url": "https://github.com/Igor-Lopes/zenvia-node/issues"
   },
-  "homepage": "https://github.com/Igor-Lopes/node-zenvia#readme",
+  "homepage": "https://github.com/Igor-Lopes/zenvia-node#readme",
   "devDependencies": {},
   "dependencies": {}
 }
