@@ -1,5 +1,7 @@
 # zenvia-node
 
+[![npm version](https://badge.fury.io/js/zenvia-node.svg)](https://badge.fury.io/js/zenvia-node)
+
 Lightweight and dependency free Node Module for sending SMS messages with Zenvia API.
 
 ## Usage
