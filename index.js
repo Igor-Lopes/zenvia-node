@@ -2,7 +2,7 @@ var http = require('http');
 
 module.exports = function(zenvia) {
 
-    var host = 'api-rest.zenvia360.com.br';
+    var host = 'api-rest.zenvia.com/services';
 
     var headers = {
         "Authorization": "Basic " + new Buffer(zenvia.username + ":" + zenvia.password, "utf8").toString("base64"),
